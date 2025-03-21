@@ -8,3 +8,9 @@
 *duration* : 12 WEEKS
 *mentor* : NEELA SANTOSH
 *last date of internship* : 22nd MAR
+
+
+# OUTPUT --
+![Image](https://github.com/user-attachments/assets/92472e71-50b8-4da6-88bd-ffbb008ad7cf)
+
+![Image](https://github.com/user-attachments/assets/ec7d9022-ef13-491c-b9d4-63459654572e)
